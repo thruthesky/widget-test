@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+	<category>
+		<main>etc</main>
+		<sub>test</sub>
+	</category>
+	<name>
+		<en>Test</en>
+		<ko>테스트</ko>
+	</name>
+	<version>0.2</version>
+	<author>JaeHo Song</author>
+	<email>thruthesky@gmail.com</email>
+	<homepage>http://jaehosong.com</homepage>
+	<demo>http://philgo.net</demo>
+	<short>
+		<en>This is only test widget</en>
+		<ko>테스트 위젯입니다.</ko>
+	</short>
+	<detail>
+		<en>This is only test widget.</en>
+		<ko>테스트 위젯입니다.</ko>
+	</detail>
+</config>
